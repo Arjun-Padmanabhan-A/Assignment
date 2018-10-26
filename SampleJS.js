@@ -1,2 +1,2 @@
 FirstJavascript file.
-Sample.
+Sample2.
